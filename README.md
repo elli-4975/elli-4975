@@ -4,21 +4,15 @@
 <h2>👨‍💻 My Programming Projects:</h2>
 
 - <b>Neuron Image Analysis and Heartbeat Detection (Python)</b> | Cellular Physiology and Biophysics Course Project
-  - [Insert Link](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Insert Link]()
 - <b>Fall Detection ML Model (Python)</b> | Wearables Course Project
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Insert Link]()
 - <b>Gastric Cancer ATAC-Seq PD1 Validation (R, Python, LINUX)</b> | Genetic Informatics Course 
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Insert Link](https://github.com/elli-4975/gastric-cancer)
 - <b>Urothelial Bladder Carcinoma Drug Target Identification (R, Statistical Analysis)</b>| Intro to Bioinformatics Course Project
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - [Insert Link]()
+  - [Video Presentation](https://youtu.be/RKPJOmsFqL0) (8 minutes)
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
