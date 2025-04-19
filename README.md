@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ellie!</h1> 
 <h2>Biomedical Engineering Student specializing in Bioinformatics (CS) & Signals and Systems (ELEC)</h2>
 
-<h2>👨‍💻 My Programming Projects:</h2>
+<h2>👩‍💻 My Programming Projects:</h2>
 
 - <b>Neuron Image Analysis and Heartbeat Detection (Python)</b> | Biomedical Design Course Project
   - [Read more...](https://github.com/elli-4975/signal-processing/tree/main)
