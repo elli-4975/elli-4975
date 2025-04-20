@@ -6,7 +6,7 @@
 - <b>Neuron Image Analysis and Heartbeat Detection (Python)</b> | Biomedical Design Course Project
   - [Read more...](https://github.com/elli-4975/signal-processing/tree/main)
 - <b>Fall Detection ML Model (Python)</b> | Wearables Course Project
-  - [Insert Link]()
+  - [Read more...](https://github.com/elli-4975/Fall-Detection/tree/main)
 - <b>Gastric Cancer ATAC-Seq PD1 Validation (R, Python, LINUX)</b> | Genetic Informatics Course 
   - [Read More...](https://github.com/elli-4975/gastric-cancer)
 - <b>Urothelial Bladder Carcinoma Drug Target Identification (R, Statistical Analysis)</b>| Intro to Bioinformatics Course Project
