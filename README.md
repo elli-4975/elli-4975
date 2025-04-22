@@ -7,7 +7,6 @@
   - [Read more...](https://github.com/elli-4975/signal-processing/tree/main)
 - <b>Fall Detection ML Model (Python)</b> | Wearables Course Project
   - [Read more...](https://github.com/elli-4975/Fall-Detection/tree/main)
-  - No code uploaded yet but you can check out the results in the Final Report. 
 - <b>Gastric Cancer ATAC-Seq PD1 Validation (R, Python, LINUX)</b> | Genetic Informatics Course Project
   - [Read More...](https://github.com/elli-4975/gastric-cancer)
 - <b>Urothelial Bladder Carcinoma Drug Target Identification (R, Statistical Analysis)</b> | Intro to Bioinformatics Course Project
